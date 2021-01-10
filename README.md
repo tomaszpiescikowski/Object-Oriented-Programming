@@ -1,2 +1,3 @@
-# Programowanie-Obiektowe
-Repozytorium z miniprojektami w ramach przedmiotu programowanie obiektowe.
+Tomasz Pieścikowski
+145418
+tomasz.piescikowski@student.put.poznan.pl
